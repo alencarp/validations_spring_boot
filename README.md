@@ -3,7 +3,7 @@ Validations using Spring Boot version 3.0.4
 This Spring Boot version uses a new import to validate fields: jakarta.validation.constraints
 <br>
 <br>
-Spring Boot version 2.7.10 SNAPSHOT and oldest use: javax.validation.constraints**
+Spring Boot version 2.7.10 SNAPSHOT and oldest use: javax.validation.constraints
 <br><br>
 To run the application use the requests:
 <br><br>
